@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+<img src="https://github.com/enere1/calendarSchedule/assets/50684536/a0873be1-557a-4aee-8176-6e25bdec9463" alt="Example Image" width="300"/>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
